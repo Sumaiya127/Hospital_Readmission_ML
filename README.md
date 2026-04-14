@@ -51,6 +51,11 @@ Predict whether a patient will be readmitted within 30 days using healthcare dat
 
 ---
 
+## 📸 Visualization
+
+[Readmission Distribution](readmission_plot.png)
+
+
 ## 📌 Conclusion
 
 This model helps identify high-risk patients and can support hospitals in reducing readmissions.

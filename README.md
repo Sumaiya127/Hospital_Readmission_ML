@@ -1,3 +1,6 @@
+**End-to-end machine learning project to predict hospital readmissions, including data preprocessing, handling class imbalance, and actionable healthcare insights.**
+
+
 # 🏥 Hospital Readmission Prediction
 
 ## 📌 Problem Statement
